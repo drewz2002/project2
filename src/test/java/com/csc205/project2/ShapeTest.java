@@ -2,8 +2,6 @@ package com.csc205.project2;
 
 import org.junit.jupiter.api.*;
 
-import javax.swing.plaf.TableHeaderUI;
-
 class ShapeTest {
 
     ThreeDimensionalShape cube = new Cube(3.0);
